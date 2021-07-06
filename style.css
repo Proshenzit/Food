@@ -55,14 +55,63 @@ width: 100%;
     margin-top: 50px;
 }
 
-
-
 .about-area{
 display: flex;
 background: url(img/7.png);
 height: 100vh;  
+    
+}
+
+.Recipe{
+
+
+    text-align: center;
+}
+
+.food-menu{
+
+    display: flex;
+margin: 20px 5px 20px 150px;
+    
+}
+.food img{
+    height: 250px;
+    width: 90%;
+    border-radius: 30px;
+    margin: 20px;
+
+
+}
 
     
+.food {
+
+    width:35%;
+    box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.15);
+    margin: 35px;
+  
+    border-radius: 30px;
+}
+
+.food p{
+
+    width: 350px;
+}
+footer{
+    padding: 30px;
+
+    text-align: center;
+    background-color: black;
+
+}
+
+.foot{
+
+    color: white;
+}
+
+footer h2{
+    margin: 0;
 }
 
 
